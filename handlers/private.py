@@ -56,7 +56,8 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💕ᴏᴡɴᴇʀ💕", url=f"https://t.me/santhu_music_bot")
+                        "💕ᴏᴡɴᴇʀ💕", "💘 ɴᴀ ᴄʜᴀɴɴᴇʟ 𝟻𝟶𝟶ᴋ sᴜʙsᴄʀɪʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇ ᴄʜᴇʏᴀɴᴅɪ ʀᴇᴘᴏ ᴇsᴛʜᴀ.", show_alert=True)
+        retur)
                 ]
             ]
         ),
